@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import <CoreData/CoreData.h>
 
 @implementation AppDelegate
 
